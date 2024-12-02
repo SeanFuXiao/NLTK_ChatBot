@@ -1,0 +1,18 @@
+[
+  { "intent": "greeting", "text": "Hello" },
+  { "intent": "greeting", "text": "Hi there!" },
+  { "intent": "greeting", "text": "Good morning!" },
+  { "intent": "farewell", "text": "Goodbye!" },
+  { "intent": "farewell", "text": "See you later!" },
+  { "intent": "thanks", "text": "Thank you!" },
+  { "intent": "thanks", "text": "Thanks a lot!" },
+  { "intent": "weather", "text": "What's the weather like?" },
+  { "intent": "weather", "text": "Is it going to rain today?" },
+  { "intent": "news", "text": "What's the latest news?" },
+  { "intent": "news", "text": "Tell me about current events." },
+  { "intent": "help", "text": "Can you help me?" },
+  { "intent": "help", "text": "I need assistance." },
+  { "intent": "joke", "text": "Tell me a joke." },
+  { "intent": "joke", "text": "Make me laugh." },
+  { "intent": "unknown", "text": "What is your name?" }
+]
